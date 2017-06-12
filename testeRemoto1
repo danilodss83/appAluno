@@ -1,1 +1,3 @@
 TESTE remoto
+Teste do comando git checkout HEAD^ file/to/overwrite
+git pull
