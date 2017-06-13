@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 testeBranch
+=======
+testeBranch
+SEGUNDO TESTE DE BRANCH E MERGE
+testando se o master tá influenciando no branch
+TESTE TESTE
+TESTE de branch com checkout -b
+>>>>>>> branchMenosB
